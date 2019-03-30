@@ -1,0 +1,35 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.421
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HumaneSocietyApplication.Android", "HumaneSocietyApplication\HumaneSocietyApplication.Android\HumaneSocietyApplication.Android.csproj", "{93FFC13A-DF25-4818-A0B3-3452F482D961}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HumaneSocietyApplication", "HumaneSocietyApplication\HumaneSocietyApplication\HumaneSocietyApplication.csproj", "{747FDF7D-468A-4EEE-9E79-E4BFDE34FA8C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{93FFC13A-DF25-4818-A0B3-3452F482D961}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{93FFC13A-DF25-4818-A0B3-3452F482D961}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{93FFC13A-DF25-4818-A0B3-3452F482D961}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{93FFC13A-DF25-4818-A0B3-3452F482D961}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{93FFC13A-DF25-4818-A0B3-3452F482D961}.Release|Any CPU.Build.0 = Release|Any CPU
+		{93FFC13A-DF25-4818-A0B3-3452F482D961}.Release|Any CPU.Deploy.0 = Release|Any CPU
+		{747FDF7D-468A-4EEE-9E79-E4BFDE34FA8C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{747FDF7D-468A-4EEE-9E79-E4BFDE34FA8C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{747FDF7D-468A-4EEE-9E79-E4BFDE34FA8C}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{747FDF7D-468A-4EEE-9E79-E4BFDE34FA8C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{747FDF7D-468A-4EEE-9E79-E4BFDE34FA8C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{747FDF7D-468A-4EEE-9E79-E4BFDE34FA8C}.Release|Any CPU.Deploy.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3D255208-A23D-4C60-9F5A-904F0071D15D}
+	EndGlobalSection
+EndGlobal
